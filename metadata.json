@@ -1,0 +1,5 @@
+{
+  "name": "WWII Sleep Story Script Generator",
+  "description": "An application that generates soothing, historically-researched WWII sleep story scripts based on a user's video idea, target duration, and narration speed.",
+  "requestFramePermissions": []
+}
